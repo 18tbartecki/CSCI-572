@@ -1,0 +1,35 @@
+﻿Name: Tommy Bartecki 
+USC ID: 4018782058 
+News site crawled: foxnews.com 
+Number of threads: 7 
+
+Fetch Statistics 
+================ 
+# fetches attempted: 19,998
+# fetches succeeded: 19,369
+# fetches failed or aborted: 629
+
+Outgoing URLs: 
+============== 
+Total URLs extracted: 2,660,605
+# unique URLs extracted: 113,670
+# unique URLs within News Site: 93,512
+# unique URLs outside News Site: 20,158
+
+Status Codes: 
+============= 
+200 OK: 19,369
+301 Moved Permanently: 522
+302 Moved Temporarily: 1
+404 Not Found: 104
+503 Service Unavailable: 2
+
+File Sizes: 
+=========== 
+10KB ~ <100KB: 16,971
+100KB ~ <1MB: 2382
+>= 1MB: 13
+
+Content Types: 
+============== 
+text/html: 19,366
