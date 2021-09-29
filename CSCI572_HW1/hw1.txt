@@ -1,0 +1,8 @@
+Average Percent Overlap: 30.9%
+Average Spearman Coefficient: -3.24
+
+From these results, we can determine that Google and Ask are using different algorithms to determine
+their results' rankings for each query. While some queries produced many overlapping results (with a
+max of 9/10), there were far more queries that had no overlapping results, giving an average overlap of
+just above 30%. The Spearman coefficient is also negative, suggesting the overlapping results are not
+correlated.
